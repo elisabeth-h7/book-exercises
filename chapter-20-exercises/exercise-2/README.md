@@ -1,7 +1,11 @@
 # Exercise 2
 In this exercise, you'll practice resolving a merge conflict.
 
+<<<<<<< HEAD
 > Life is a box of chocolates, you never know what you're gonna get.
+=======
+> Warning!
+>>>>>>> danger
 
 To complete the exercise, follow the below steps:
 
